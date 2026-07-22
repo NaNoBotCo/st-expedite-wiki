@@ -1,0 +1,4508 @@
+{
+ "type": "FeatureCollection",
+ "properties": {
+  "source": "OpenStreetMap via Overpass API",
+  "license": "ODbL 1.0 — (c) OpenStreetMap contributors",
+  "note": "Discovery layer: country/region derived from rough coordinate boxes, not authoritative boundaries.",
+  "generated": "2026-07-13"
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -65.3000078,
+     -24.2015837
+    ]
+   },
+   "properties": {
+    "name": "Altar a San Expedito",
+    "kind": "wayside-shrine",
+    "country": "Argentina",
+    "region_bucket": "argentina",
+    "osm_type": "node",
+    "osm_id": 6573055352,
+    "tags_raw": {
+     "artist_name": "_",
+     "artwork_type": "sculpture",
+     "material": "wood",
+     "name": "Altar a San Expedito",
+     "tourism": "artwork"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -54.3683991,
+     -30.2464402
+    ]
+   },
+   "properties": {
+    "name": "Capela Santo Expedito",
+    "kind": "chapel",
+    "country": "Argentina",
+    "region_bucket": "argentina",
+    "osm_type": "way",
+    "osm_id": 493258293,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "building": "yes",
+     "name": "Capela Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -61.471983,
+     -31.2715142
+    ]
+   },
+   "properties": {
+    "name": "Capilla \"San Expedito\"",
+    "kind": "chapel",
+    "country": "Argentina",
+    "region_bucket": "argentina",
+    "osm_type": "way",
+    "osm_id": 596998107,
+    "tags_raw": {
+     "building": "chapel",
+     "name": "Capilla \"San Expedito\""
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -66.8037491,
+     -33.4040676
+    ]
+   },
+   "properties": {
+    "name": "Capilla San Expedito",
+    "kind": "chapel",
+    "country": "Argentina",
+    "region_bucket": "argentina",
+    "osm_type": "node",
+    "osm_id": 13062098702,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "name": "Capilla San Expedito"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -65.2777105,
+     -24.2179104
+    ]
+   },
+   "properties": {
+    "name": "Capilla San Expedito",
+    "kind": "chapel",
+    "country": "Argentina",
+    "region_bucket": "argentina",
+    "osm_type": "way",
+    "osm_id": 522800618,
+    "tags_raw": {
+     "addr:city": "San Salvador de Jujuy, Alto Comedero",
+     "addr:postcode": "4600",
+     "building": "chapel",
+     "name": "Capilla San Expedito"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -68.0854073,
+     -33.4286216
+    ]
+   },
+   "properties": {
+    "name": "Capilla San Expedito",
+    "kind": "chapel",
+    "country": "Argentina",
+    "region_bucket": "argentina",
+    "osm_type": "way",
+    "osm_id": 963798932,
+    "tags_raw": {
+     "building": "church",
+     "name": "Capilla San Expedito"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -61.7032508,
+     -33.8933848
+    ]
+   },
+   "properties": {
+    "name": "Capilla de San Expedito",
+    "kind": "chapel",
+    "country": "Argentina",
+    "region_bucket": "argentina",
+    "osm_type": "node",
+    "osm_id": 4734937921,
+    "tags_raw": {
+     "addr:city": "Santa Isabel",
+     "addr:country": "AR",
+     "addr:postcode": "2605",
+     "addr:province": "Santa Fe",
+     "addr:street": "Ruta Provicinal 94",
+     "amenity": "place_of_worship",
+     "building": "chapel",
+     "name": "Capilla de San Expedito",
+     "name:es": "Capilla de San Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -68.2834252,
+     -31.4432846
+    ]
+   },
+   "properties": {
+    "name": "Capilla de Santo Domingo y San Expedito",
+    "kind": "chapel",
+    "country": "Argentina",
+    "region_bucket": "argentina",
+    "osm_type": "node",
+    "osm_id": 4424116904,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "name": "Capilla de Santo Domingo y San Expedito"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -59.0046055,
+     -27.433347
+    ]
+   },
+   "properties": {
+    "name": "Centro Misionero San Expedito",
+    "kind": "church",
+    "country": "Argentina",
+    "region_bucket": "argentina",
+    "osm_type": "node",
+    "osm_id": 2386931493,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "denomination": "catholic",
+     "name": "Centro Misionero San Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -68.2835981,
+     -31.4434641
+    ]
+   },
+   "properties": {
+    "name": "Complejo San Expedito",
+    "kind": "other",
+    "country": "Argentina",
+    "region_bucket": "argentina",
+    "osm_type": "way",
+    "osm_id": 444952309,
+    "tags_raw": {
+     "landuse": "religious",
+     "name": "Complejo San Expedito"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -65.1984005,
+     -26.8408464
+    ]
+   },
+   "properties": {
+    "name": "Cpilla Nuestra señora de Lourdes y San Expedito",
+    "kind": "church",
+    "country": "Argentina",
+    "region_bucket": "argentina",
+    "osm_type": "node",
+    "osm_id": 12947335328,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "name": "Cpilla Nuestra señora de Lourdes y San Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -58.9216731,
+     -27.4812771
+    ]
+   },
+   "properties": {
+    "name": "Ermita El Inmaculado de María y San Expedito",
+    "kind": "chapel",
+    "country": "Argentina",
+    "region_bucket": "argentina",
+    "osm_type": "node",
+    "osm_id": 3312421996,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "building": "chapel",
+     "denomination": "catholic",
+     "name": "Ermita El Inmaculado de María y San Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -58.4151373,
+     -34.6974508
+    ]
+   },
+   "properties": {
+    "name": "Ermita San Expedito",
+    "kind": "church",
+    "country": "Argentina",
+    "region_bucket": "argentina",
+    "osm_type": "node",
+    "osm_id": 7480455588,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "name": "Ermita San Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -58.9742135,
+     -27.4547411
+    ]
+   },
+   "properties": {
+    "name": "Ermita de San Expedito",
+    "kind": "church",
+    "country": "Argentina",
+    "region_bucket": "argentina",
+    "osm_type": "way",
+    "osm_id": 224360736,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "denomination": "catholic",
+     "name": "Ermita de San Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -68.4896023,
+     -31.4386315
+    ]
+   },
+   "properties": {
+    "name": "Gruta San Expedito",
+    "kind": "wayside-shrine",
+    "country": "Argentina",
+    "region_bucket": "argentina",
+    "osm_type": "node",
+    "osm_id": 6464897547,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "denomination": "catholic",
+     "name": "Gruta San Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -64.8859115,
+     -24.2511862
+    ]
+   },
+   "properties": {
+    "name": "Gruta a San Expedito",
+    "kind": "wayside-shrine",
+    "country": "Argentina",
+    "region_bucket": "argentina",
+    "osm_type": "node",
+    "osm_id": 13295446731,
+    "tags_raw": {
+     "historic": "wayside_shrine",
+     "name": "Gruta a San Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -69.6206665,
+     -51.6285177
+    ]
+   },
+   "properties": {
+    "name": "Gruta de San Expedito",
+    "kind": "wayside-shrine",
+    "country": "Argentina",
+    "region_bucket": "argentina",
+    "osm_type": "node",
+    "osm_id": 13544664501,
+    "tags_raw": {
+     "historic": "wayside_shrine",
+     "name": "Gruta de San Expedito"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -67.6571755,
+     -31.5879866
+    ]
+   },
+   "properties": {
+    "name": "Iglesia de San Expedito",
+    "kind": "church",
+    "country": "Argentina",
+    "region_bucket": "argentina",
+    "osm_type": "node",
+    "osm_id": 2038864096,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "denomination": "catholic",
+     "name": "Iglesia de San Expedito",
+     "religion": "christian",
+     "wikidata": "Q6121548",
+     "wikipedia": "es:Santuario de San Expedito"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -53.7814305,
+     -29.5860815
+    ]
+   },
+   "properties": {
+    "name": "Igreja Santo Expedito",
+    "kind": "church",
+    "country": "Argentina",
+    "region_bucket": "argentina",
+    "osm_type": "way",
+    "osm_id": 601427688,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "building": "church",
+     "name": "Igreja Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -65.2589914,
+     -24.238163
+    ]
+   },
+   "properties": {
+    "name": "MONOLITO A SAN EXPEDITO",
+    "kind": "wayside-shrine",
+    "country": "Argentina",
+    "region_bucket": "argentina",
+    "osm_type": "node",
+    "osm_id": 12786165175,
+    "tags_raw": {
+     "historic": "memorial",
+     "memorial": "stone",
+     "name": "MONOLITO A SAN EXPEDITO"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -65.3930202,
+     -24.8185307
+    ]
+   },
+   "properties": {
+    "name": "Mural San Expedito",
+    "kind": "other",
+    "country": "Argentina",
+    "region_bucket": "argentina",
+    "osm_type": "node",
+    "osm_id": 6597734534,
+    "tags_raw": {
+     "artwork_type": "mural",
+     "name": "Mural San Expedito",
+     "tourism": "artwork"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -58.9671262,
+     -27.486375
+    ]
+   },
+   "properties": {
+    "name": "Orador a San Expedito",
+    "kind": "church",
+    "country": "Argentina",
+    "region_bucket": "argentina",
+    "osm_type": "node",
+    "osm_id": 6403165910,
+    "tags_raw": {
+     "addr:city": "Resistencia",
+     "addr:postcode": "3500",
+     "addr:street": "José Mármol",
+     "amenity": "place_of_worship",
+     "denomination": "catholic",
+     "name": "Orador a San Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -64.2941529,
+     -31.0790893
+    ]
+   },
+   "properties": {
+    "name": "Oratorio San Expedito",
+    "kind": "oratory",
+    "country": "Argentina",
+    "region_bucket": "argentina",
+    "osm_type": "node",
+    "osm_id": 11481274845,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "check_date": "2025-12-28",
+     "denomination": "roman_catholic",
+     "name": "Oratorio San Expedito",
+     "panoramax": "106344d6-ee83-41f0-a30c-9607bc1f4211",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -64.5029476,
+     -26.2879947
+    ]
+   },
+   "properties": {
+    "name": "Parroquia San Expedito Isoa",
+    "kind": "church",
+    "country": "Argentina",
+    "region_bucket": "argentina",
+    "osm_type": "node",
+    "osm_id": 11210992268,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "name": "Parroquia San Expedito Isoa",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -58.4667496,
+     -34.5862835
+    ]
+   },
+   "properties": {
+    "name": "Parroquia de San Fermín y San Expedito",
+    "kind": "church",
+    "country": "Argentina",
+    "region_bucket": "argentina",
+    "osm_type": "node",
+    "osm_id": 2397984566,
+    "tags_raw": {
+     "addr:city": "Ciudad Autónoma de Buenos Aires",
+     "addr:country": "AR",
+     "addr:housenumber": "466",
+     "addr:street": "Estomba",
+     "amenity": "place_of_worship",
+     "name": "Parroquia de San Fermín y San Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -60.3372557,
+     -30.140184
+    ]
+   },
+   "properties": {
+    "name": "San Espedito",
+    "kind": "church",
+    "country": "Argentina",
+    "region_bucket": "argentina",
+    "osm_type": "node",
+    "osm_id": 5949847730,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "name": "San Espedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -55.1360195,
+     -27.8737352
+    ]
+   },
+   "properties": {
+    "name": "San Expedito",
+    "kind": "other",
+    "country": "Argentina",
+    "region_bucket": "argentina",
+    "osm_type": "node",
+    "osm_id": 2385683496,
+    "tags_raw": {
+     "name": "San Expedito",
+     "religion": "christian",
+     "shop": "gift"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -61.368865,
+     -30.8643114
+    ]
+   },
+   "properties": {
+    "name": "San Expedito",
+    "kind": "chapel",
+    "country": "Argentina",
+    "region_bucket": "argentina",
+    "osm_type": "node",
+    "osm_id": 3254714552,
+    "tags_raw": {
+     "building": "chapel",
+     "name": "San Expedito"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -55.0606725,
+     -26.9291348
+    ]
+   },
+   "properties": {
+    "name": "San Expedito",
+    "kind": "wayside-shrine",
+    "country": "Argentina",
+    "region_bucket": "argentina",
+    "osm_type": "node",
+    "osm_id": 4507039189,
+    "tags_raw": {
+     "historic": "wayside_shrine",
+     "name": "San Expedito"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -58.0259295,
+     -31.3972363
+    ]
+   },
+   "properties": {
+    "name": "San Expedito",
+    "kind": "wayside-shrine",
+    "country": "Argentina",
+    "region_bucket": "argentina",
+    "osm_type": "node",
+    "osm_id": 6042836070,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "building": "wayside_shrine",
+     "denomination": "roman_catholic",
+     "historic": "wayside_shrine",
+     "name": "San Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -58.4892787,
+     -34.7985934
+    ]
+   },
+   "properties": {
+    "name": "San Expedito",
+    "kind": "church",
+    "country": "Argentina",
+    "region_bucket": "argentina",
+    "osm_type": "node",
+    "osm_id": 6329855217,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "name": "San Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -58.506317,
+     -31.6308539
+    ]
+   },
+   "properties": {
+    "name": "San Expedito",
+    "kind": "wayside-shrine",
+    "country": "Argentina",
+    "region_bucket": "argentina",
+    "osm_type": "node",
+    "osm_id": 8214909504,
+    "tags_raw": {
+     "denomination": "roman_catholic",
+     "historic": "wayside_shrine",
+     "name": "San Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -58.7265608,
+     -27.5433497
+    ]
+   },
+   "properties": {
+    "name": "San Expedito",
+    "kind": "wayside-shrine",
+    "country": "Argentina",
+    "region_bucket": "argentina",
+    "osm_type": "node",
+    "osm_id": 10639093382,
+    "tags_raw": {
+     "denomination": "roman_catholic",
+     "historic": "wayside_shrine",
+     "name": "San Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -59.0917325,
+     -36.0215686
+    ]
+   },
+   "properties": {
+    "name": "San Expedito",
+    "kind": "wayside-shrine",
+    "country": "Argentina",
+    "region_bucket": "argentina",
+    "osm_type": "node",
+    "osm_id": 10805479658,
+    "tags_raw": {
+     "historic": "wayside_shrine",
+     "name": "San Expedito"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -56.9684047,
+     -37.2443901
+    ]
+   },
+   "properties": {
+    "name": "San Expedito",
+    "kind": "wayside-shrine",
+    "country": "Argentina",
+    "region_bucket": "argentina",
+    "osm_type": "node",
+    "osm_id": 12388949715,
+    "tags_raw": {
+     "denomination": "catholic",
+     "historic": "wayside_shrine",
+     "name": "San Expedito",
+     "panoramax": "9d1700c6-7c8c-4d3c-8dbb-3d4d224b4539",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -62.5046462,
+     -36.768584
+    ]
+   },
+   "properties": {
+    "name": "San Expedito",
+    "kind": "wayside-shrine",
+    "country": "Argentina",
+    "region_bucket": "argentina",
+    "osm_type": "node",
+    "osm_id": 12718882246,
+    "tags_raw": {
+     "historic": "wayside_shrine",
+     "name": "San Expedito"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -64.4425337,
+     -31.7300592
+    ]
+   },
+   "properties": {
+    "name": "San Expedito",
+    "kind": "wayside-shrine",
+    "country": "Argentina",
+    "region_bucket": "argentina",
+    "osm_type": "node",
+    "osm_id": 13112878645,
+    "tags_raw": {
+     "historic": "wayside_shrine",
+     "name": "San Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -67.6571225,
+     -31.5884005
+    ]
+   },
+   "properties": {
+    "name": "Santuario San Expedito",
+    "kind": "church",
+    "country": "Argentina",
+    "region_bucket": "argentina",
+    "osm_type": "node",
+    "osm_id": 13186579442,
+    "tags_raw": {
+     "name": "Santuario San Expedito",
+     "tourism": "attraction"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -58.699167,
+     -34.5554629
+    ]
+   },
+   "properties": {
+    "name": "Santuario de San Expedito",
+    "kind": "wayside-shrine",
+    "country": "Argentina",
+    "region_bucket": "argentina",
+    "osm_type": "node",
+    "osm_id": 6879298251,
+    "tags_raw": {
+     "historic": "wayside_shrine",
+     "name": "Santuario de San Expedito"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -64.805941,
+     -23.9439857
+    ]
+   },
+   "properties": {
+    "name": "Santuario de San Expedito",
+    "kind": "wayside-shrine",
+    "country": "Argentina",
+    "region_bucket": "argentina",
+    "osm_type": "node",
+    "osm_id": 13524991657,
+    "tags_raw": {
+     "access": "yes",
+     "denomination": "roman_catholic",
+     "historic": "wayside_shrine",
+     "name": "Santuario de San Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -38.6518839,
+     -6.8143227
+    ]
+   },
+   "properties": {
+    "name": "CAPELA DE SANTO EXPEDITO",
+    "kind": "chapel",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 906652532,
+    "tags_raw": {
+     "addr:city": "Bom Jesus",
+     "addr:postcode": "58930-000",
+     "addr:street": "Rua Firmino Brito",
+     "addr:suburb": "Asa Branca",
+     "building": "chapel",
+     "name": "CAPELA DE SANTO EXPEDITO"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -49.9502355,
+     -15.5672025
+    ]
+   },
+   "properties": {
+    "name": "CAPELA SANTO EXPEDITO",
+    "kind": "chapel",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "node",
+    "osm_id": 5306939433,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "denomination": "catholic",
+     "name": "CAPELA SANTO EXPEDITO",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -49.9502593,
+     -15.5671816
+    ]
+   },
+   "properties": {
+    "name": "CAPELA SANTO EXPEDITO",
+    "kind": "chapel",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 581656960,
+    "tags_raw": {
+     "building": "chapel",
+     "name": "CAPELA SANTO EXPEDITO"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -45.5342707,
+     -23.8162854
+    ]
+   },
+   "properties": {
+    "name": "Capela Imaculada Conceição e Santo Expedito",
+    "kind": "chapel",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "node",
+    "osm_id": 3198565217,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "building": "chapel",
+     "check_date": "2023-10-30",
+     "name": "Capela Imaculada Conceição e Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -38.4132482,
+     -6.524179
+    ]
+   },
+   "properties": {
+    "name": "Capela Santo Espedito",
+    "kind": "chapel",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 617695971,
+    "tags_raw": {
+     "addr:city": "Uiraúna",
+     "addr:postcode": "58915000",
+     "addr:street": "Rua Manoel Mariano",
+     "addr:suburb": "Centro",
+     "building": "chapel",
+     "name": "Capela Santo Espedito"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -46.592488,
+     -23.4704243
+    ]
+   },
+   "properties": {
+    "name": "Capela Santo Expedito",
+    "kind": "chapel",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "node",
+    "osm_id": 4672422295,
+    "tags_raw": {
+     "addr:city": "São Paulo",
+     "addr:housenumber": "686",
+     "addr:postcode": "02270-000",
+     "addr:street": "Rua Murilo Furtado",
+     "addr:suburb": "Tucuruvi",
+     "amenity": "place_of_worship",
+     "denomination": "catholic",
+     "name": "Capela Santo Expedito",
+     "phone": "+55 11 2934-2420",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -44.8702003,
+     -22.2760148
+    ]
+   },
+   "properties": {
+    "name": "Capela Santo Expedito",
+    "kind": "chapel",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "node",
+    "osm_id": 5768986686,
+    "tags_raw": {
+     "addr:city": "Itamonte",
+     "addr:postcode": "37466-000",
+     "addr:street": "Rua Padre Francisco Mira",
+     "addr:suburb": "Morada dos Bosques",
+     "amenity": "place_of_worship",
+     "denomination": "catholic",
+     "name": "Capela Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -50.9072903,
+     -28.9983341
+    ]
+   },
+   "properties": {
+    "name": "Capela Santo Expedito",
+    "kind": "chapel",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "node",
+    "osm_id": 6178721917,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "name": "Capela Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -53.458786,
+     -26.7879554
+    ]
+   },
+   "properties": {
+    "name": "Capela Santo Expedito",
+    "kind": "chapel",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "node",
+    "osm_id": 8627194104,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "building": "chapel",
+     "denomination": "catholic",
+     "name": "Capela Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -40.7533113,
+     -3.9100264
+    ]
+   },
+   "properties": {
+    "name": "Capela Santo Expedito",
+    "kind": "chapel",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "node",
+    "osm_id": 11394049648,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "denomination": "roman_catholic",
+     "name": "Capela Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -40.7432721,
+     -3.8961716
+    ]
+   },
+   "properties": {
+    "name": "Capela Santo Expedito",
+    "kind": "chapel",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "node",
+    "osm_id": 11824613632,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "denomination": "roman_catholic",
+     "name": "Capela Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.5071817,
+     -22.0772664
+    ]
+   },
+   "properties": {
+    "name": "Capela Santo Expedito",
+    "kind": "chapel",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "node",
+    "osm_id": 12394404636,
+    "tags_raw": {
+     "addr:housenumber": "71814",
+     "addr:postcode": "27660-000",
+     "addr:street": "Rodovia RJ-151",
+     "addr:suburb": "Santa Rosa",
+     "amenity": "place_of_worship",
+     "denomination": "catholic",
+     "name": "Capela Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -47.6277504,
+     -22.7389779
+    ]
+   },
+   "properties": {
+    "name": "Capela Santo Expedito",
+    "kind": "chapel",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 807461668,
+    "tags_raw": {
+     "building": "chapel",
+     "name": "Capela Santo Expedito"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -46.7494401,
+     -22.7008046
+    ]
+   },
+   "properties": {
+    "name": "Capela Santo Expedito",
+    "kind": "wayside-shrine",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 1160527521,
+    "tags_raw": {
+     "access": "yes",
+     "denomination": "catholic",
+     "historic": "wayside_shrine",
+     "name": "Capela Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -36.9736204,
+     -5.3467669
+    ]
+   },
+   "properties": {
+    "name": "Capela Santo Expedito",
+    "kind": "chapel",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 1458492348,
+    "tags_raw": {
+     "addr:city": "Assu",
+     "addr:suburb": "Nova Descoberta",
+     "amenity": "place_of_worship",
+     "building": "yes",
+     "denomination": "roman_catholic",
+     "name": "Capela Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -37.3681531,
+     -5.1881822
+    ]
+   },
+   "properties": {
+    "name": "Capela Santo Expedito",
+    "kind": "chapel",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 1463600534,
+    "tags_raw": {
+     "addr:city": "Mossoró",
+     "addr:housenumber": "510",
+     "addr:postcode": "59607-380",
+     "addr:street": "Rua Ricardo Guilheme de Lima",
+     "addr:suburb": "Aeroporto",
+     "amenity": "place_of_worship",
+     "building": "yes",
+     "denomination": "roman_catholic",
+     "name": "Capela Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -40.1446854,
+     -7.4248135
+    ]
+   },
+   "properties": {
+    "name": "Capela de  Santo Expedito",
+    "kind": "chapel",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 1175977268,
+    "tags_raw": {
+     "addr:city": "Bodocó",
+     "addr:street": "Serra do Brejo",
+     "amenity": "place_of_worship",
+     "building": "yes",
+     "denomination": "roman_catholic",
+     "name": "Capela de  Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -45.1164857,
+     -20.4724811
+    ]
+   },
+   "properties": {
+    "name": "Capela de Santo Expedito",
+    "kind": "chapel",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "node",
+    "osm_id": 6304528484,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "building": "chapel",
+     "denomination": "catholic",
+     "name": "Capela de Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -44.2408387,
+     -8.7301747
+    ]
+   },
+   "properties": {
+    "name": "Capela de Santo Expedito",
+    "kind": "chapel",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "node",
+    "osm_id": 8867136497,
+    "tags_raw": {
+     "addr:city": "Palmeira do Piauí",
+     "addr:postcode": "64925000",
+     "addr:street": "Rua Miguel Oliveira",
+     "addr:suburb": "Santo Expedito",
+     "amenity": "place_of_worship",
+     "denomination": "catholic",
+     "name": "Capela de Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -46.4443393,
+     -23.6484088
+    ]
+   },
+   "properties": {
+    "name": "Capela de Santo Expedito",
+    "kind": "chapel",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "node",
+    "osm_id": 9368093317,
+    "tags_raw": {
+     "addr:street": "Rua Remo Luís Corradine",
+     "addr:suburb": "Jardim Zaira",
+     "amenity": "place_of_worship",
+     "denomination": "roman_catholic",
+     "name": "Capela de Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -37.8643729,
+     -10.679494
+    ]
+   },
+   "properties": {
+    "name": "Capela de Santo Expedito",
+    "kind": "chapel",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "node",
+    "osm_id": 12899814296,
+    "tags_raw": {
+     "addr:city": "Paripiranga",
+     "addr:housenumber": "35",
+     "addr:postcode": "48430-000",
+     "addr:street": "Rua José de Matos Pimentel",
+     "addr:suburb": "Centro",
+     "amenity": "place_of_worship",
+     "denomination": "roman_catholic",
+     "name": "Capela de Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -48.1660068,
+     -18.8881609
+    ]
+   },
+   "properties": {
+    "name": "Capela de Santo Expedito",
+    "kind": "chapel",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "node",
+    "osm_id": 13398490686,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "building": "chapel",
+     "denomination": "catholic",
+     "name": "Capela de Santo Expedito",
+     "source": "survey"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -47.4937104,
+     -21.7142279
+    ]
+   },
+   "properties": {
+    "name": "Capela de Santo Expedito",
+    "kind": "chapel",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 97264918,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "building": "chapel",
+     "denomination": "catholic",
+     "name": "Capela de Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -38.6490291,
+     -6.8748847
+    ]
+   },
+   "properties": {
+    "name": "Capela de Santo Expedito",
+    "kind": "chapel",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 497957665,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "name": "Capela de Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -48.4690045,
+     -22.866081
+    ]
+   },
+   "properties": {
+    "name": "Capela de Santo Expedito",
+    "kind": "chapel",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 682684206,
+    "tags_raw": {
+     "building": "chapel",
+     "name": "Capela de Santo Expedito"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -38.5568014,
+     -11.6840691
+    ]
+   },
+   "properties": {
+    "name": "Capela de Santo Expedito",
+    "kind": "chapel",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 828541953,
+    "tags_raw": {
+     "addr:city": "Sátiro Dias",
+     "addr:housenumber": "S/n",
+     "addr:postcode": "48485-000",
+     "addr:street": "Praça",
+     "addr:suburb": "Assentamento F. Papagaio",
+     "amenity": "place_of_worship",
+     "building": "yes",
+     "denomination": "catholic",
+     "name": "Capela de Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -44.928713,
+     -22.5613428
+    ]
+   },
+   "properties": {
+    "name": "Capela de Santo Expedito",
+    "kind": "chapel",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 841515987,
+    "tags_raw": {
+     "addr:postcode": "12760-000",
+     "addr:street": "Avenida Doutor Darcy Sodrero Horta",
+     "addr:suburb": "Village Campestre",
+     "amenity": "place_of_worship",
+     "building": "church",
+     "denomination": "roman_catholic",
+     "name": "Capela de Santo Expedito",
+     "religion": "christian",
+     "service_times": "Quarta-Feira 19:00 Sabado 18:00"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -39.4569164,
+     -3.6516212
+    ]
+   },
+   "properties": {
+    "name": "Capela de Santo Expedito",
+    "kind": "chapel",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 967410247,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "building": "yes",
+     "denomination": "catholic",
+     "name": "Capela de Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -36.8743242,
+     -5.5589936
+    ]
+   },
+   "properties": {
+    "name": "Capela de Santo Expedito",
+    "kind": "chapel",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 1357537982,
+    "tags_raw": {
+     "addr:city": "Ipanguaçu",
+     "addr:street": "RN-118",
+     "amenity": "place_of_worship",
+     "building": "yes",
+     "denomination": "roman_catholic",
+     "name": "Capela de Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -42.7503361,
+     -5.0949419
+    ]
+   },
+   "properties": {
+    "name": "Capela de Santo Expedito - SASFA",
+    "kind": "chapel",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 1497088910,
+    "tags_raw": {
+     "addr:city": "Teresina",
+     "addr:street": "Praça João Duca, Conj. Dom Helder Câmara",
+     "addr:suburb": "Parque Ideal",
+     "amenity": "place_of_worship",
+     "building": "yes",
+     "denomination": "roman_catholic",
+     "name": "Capela de Santo Expedito - SASFA",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -46.6290286,
+     -23.5324937
+    ]
+   },
+   "properties": {
+    "name": "Capelania Militar de Santo Expedito",
+    "kind": "chapel",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 992245195,
+    "tags_raw": {
+     "addr:city": "São Paulo",
+     "addr:housenumber": "264",
+     "addr:postcode": "01106-000",
+     "addr:street": "Rua Jorge Miranda",
+     "addr:suburb": "Luz",
+     "amenity": "place_of_worship",
+     "denomination": "roman_catholic",
+     "name": "Capelania Militar de Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -47.4935293,
+     -23.2677643
+    ]
+   },
+   "properties": {
+    "name": "Capelinha Santo Expedito",
+    "kind": "chapel",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 701713289,
+    "tags_raw": {
+     "building": "chapel",
+     "name": "Capelinha Santo Expedito"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -51.273221,
+     -29.2148406
+    ]
+   },
+   "properties": {
+    "name": "Capitel Santo Expedito",
+    "kind": "wayside-shrine",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "node",
+    "osm_id": 3383295670,
+    "tags_raw": {
+     "historic": "wayside_shrine",
+     "name": "Capitel Santo Expedito"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -52.3467426,
+     -29.2996034
+    ]
+   },
+   "properties": {
+    "name": "Capitel de Santo Expedito",
+    "kind": "wayside-shrine",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 1286133974,
+    "tags_raw": {
+     "building": "chapel",
+     "denomination": "catholic",
+     "historic": "wayside_shrine",
+     "name": "Capitel de Santo Expedito",
+     "religion": "christian",
+     "start_date": "1924"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -46.7846549,
+     -22.0072743
+    ]
+   },
+   "properties": {
+    "name": "Casa Paroquial Paróquia Santo Expedito e Nossa Senhora da Consolação",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 671093095,
+    "tags_raw": {
+     "addr:postcode": "13876-852",
+     "addr:street": "Rua Benedito Barbosa",
+     "addr:suburb": "Jardim Lucas Teixeira",
+     "amenity": "place_of_worship",
+     "building": "house",
+     "contact:phone": "+55 19 3623 6103",
+     "denomination": "roman_catholic",
+     "name": "Casa Paroquial Paróquia Santo Expedito e Nossa Senhora da Consolação",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -52.8017614,
+     -29.6621441
+    ]
+   },
+   "properties": {
+    "name": "Comunidade Católica Santo Expedito",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "node",
+    "osm_id": 7002706940,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "name": "Comunidade Católica Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -46.7821801,
+     -23.5619678
+    ]
+   },
+   "properties": {
+    "name": "Comunidade Nossa Senhora Aparecida e Santo Expedito",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 655282132,
+    "tags_raw": {
+     "addr:housenumber": "25",
+     "addr:postcode": "06056-010",
+     "addr:street": "Avenida Novo Osasco",
+     "addr:suburb": "Jardim Novo Osasco",
+     "amenity": "place_of_worship",
+     "building": "church",
+     "denomination": "roman_catholic",
+     "name": "Comunidade Nossa Senhora Aparecida e Santo Expedito",
+     "phone": "+55 11 3605 4926",
+     "religion": "christian",
+     "service_times": "Su 07:30,18:00; We 08:00; "
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -48.0767055,
+     -23.5881154
+    ]
+   },
+   "properties": {
+    "name": "Comunidade Nossa Senhorade Fátima e Santo Expedito",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 846782717,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "building": "yes",
+     "denomination": "roman_catholic",
+     "name": "Comunidade Nossa Senhorade Fátima e Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -46.8259898,
+     -22.4192087
+    ]
+   },
+   "properties": {
+    "name": "Comunidade Santa Ifigênia e Santo Expedito",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 546819407,
+    "tags_raw": {
+     "addr:city": "Itapira",
+     "addr:street": "Rua Santo Malandrin",
+     "addr:suburb": "Conjunto Habitacional Flávio Zacchi",
+     "amenity": "place_of_worship",
+     "building": "church",
+     "denomination": "roman_catholic",
+     "name": "Comunidade Santa Ifigênia e Santo Expedito",
+     "religion": "christian",
+     "service_times": "Su 19:00"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -46.8588142,
+     -23.5465275
+    ]
+   },
+   "properties": {
+    "name": "Comunidade Santo Expedito",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "node",
+    "osm_id": 6124363195,
+    "tags_raw": {
+     "addr:housenumber": "47",
+     "addr:postcode": "06365-210",
+     "addr:street": "Estrada Egídio Vitorello",
+     "addr:suburb": "Monte Carmelo",
+     "amenity": "place_of_worship",
+     "denomination": "roman_catholic",
+     "name": "Comunidade Santo Expedito",
+     "religion": "christian",
+     "service_times": "Fr 20:00"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -48.3174629,
+     -18.8371415
+    ]
+   },
+   "properties": {
+    "name": "Comunidade Santo Expedito",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 1047602465,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "building": "church",
+     "denomination": "roman_catholic",
+     "name": "Comunidade Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -47.4966025,
+     -23.4606211
+    ]
+   },
+   "properties": {
+    "name": "Comunidade Santo Expedito",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 1184469680,
+    "tags_raw": {
+     "addr:city": "Sorocaba",
+     "addr:housenumber": "340",
+     "addr:postcode": "18071-000",
+     "addr:street": "Rua Dilermando Vieira Borges",
+     "addr:suburb": "Jardim Nova Ipanema",
+     "amenity": "place_of_worship",
+     "building": "yes",
+     "denomination": "roman_catholic",
+     "name": "Comunidade Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -47.3807052,
+     -22.3229958
+    ]
+   },
+   "properties": {
+    "name": "Comunidade Santo Expedito",
+    "kind": "other",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 1411878211,
+    "tags_raw": {
+     "denomination": "roman_catholic",
+     "landuse": "religious",
+     "name": "Comunidade Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -41.4165121,
+     -20.45951
+    ]
+   },
+   "properties": {
+    "name": "Comunidade Santo Expedito (CEB) - Cachoeirinha",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 542470795,
+    "tags_raw": {
+     "addr:city": "Muniz Freire",
+     "addr:housenumber": "354",
+     "addr:postcode": "29.380-000",
+     "addr:street": "R. Demerval Ribeiro Soares",
+     "addr:suburb": "Cachoeirinha",
+     "amenity": "place_of_worship",
+     "building": "yes",
+     "denomination": "roman_catholic",
+     "name": "Comunidade Santo Expedito (CEB) - Cachoeirinha",
+     "religion": "christian",
+     "website": "https://www.facebook.com/ParoquiaDivinoES.MF.Oficial/"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -41.5291288,
+     -20.3426551
+    ]
+   },
+   "properties": {
+    "name": "Comunidade Santo Expedito - Nossa Sra. da Penha",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 1134392707,
+    "tags_raw": {
+     "addr:city": "Iúna",
+     "addr:housenumber": "170",
+     "addr:postcode": "29.390-000",
+     "addr:street": "Rua Valber Cicilio Pinheiro",
+     "addr:suburb": "Nossa Sra. da Penha",
+     "amenity": "place_of_worship",
+     "building": "yes",
+     "denomination": "catholic",
+     "name": "Comunidade Santo Expedito - Nossa Sra. da Penha",
+     "religion": "christian",
+     "website": "https://www.instagram.com/paroquiaiuna/"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -47.0297395,
+     -23.7050566
+    ]
+   },
+   "properties": {
+    "name": "Comunidade Santo Expedito e Francisco de Assis",
+    "kind": "other",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 1036333632,
+    "tags_raw": {
+     "addr:housenumber": "10",
+     "addr:street": "Avenida Tramandai",
+     "denomination": "roman_catholic",
+     "landuse": "religious",
+     "name": "Comunidade Santo Expedito e Francisco de Assis",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -47.2084178,
+     -23.7160761
+    ]
+   },
+   "properties": {
+    "name": "Comunidade Santo Expedito e Santa Filomena",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "node",
+    "osm_id": 9188117430,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "denomination": "catholic",
+     "name": "Comunidade Santo Expedito e Santa Filomena",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -51.3281191,
+     -20.4229818
+    ]
+   },
+   "properties": {
+    "name": "Comunidade de Santo Expedito",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 351882087,
+    "tags_raw": {
+     "addr:city": "Ilha Solteira",
+     "addr:housenumber": "603",
+     "addr:postcode": "15385000",
+     "addr:street": "Avenida Quinze de Novembro",
+     "addr:suburb": "Jardim Aeroporto",
+     "amenity": "place_of_worship",
+     "building": "yes",
+     "denomination": "catholic",
+     "name": "Comunidade de Santo Expedito",
+     "phone": "+55 18 3743 3143",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -51.4064107,
+     -21.8583509
+    ]
+   },
+   "properties": {
+    "name": "Entrada do Santuario de Santo Expedito",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 725998471,
+    "tags_raw": {
+     "leisure": "park",
+     "name": "Entrada do Santuario de Santo Expedito"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -51.6496226,
+     -23.7083315
+    ]
+   },
+   "properties": {
+    "name": "Estátua de Santo Expedito",
+    "kind": "wayside-shrine",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "node",
+    "osm_id": 5284948860,
+    "tags_raw": {
+     "artwork_type": "statue",
+     "name": "Estátua de Santo Expedito",
+     "tourism": "artwork"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -41.6496097,
+     -6.9600818
+    ]
+   },
+   "properties": {
+    "name": "Estátua de Santo Expedito",
+    "kind": "wayside-shrine",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "node",
+    "osm_id": 11491913003,
+    "tags_raw": {
+     "artwork_type": "statue",
+     "name": "Estátua de Santo Expedito",
+     "tourism": "artwork"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -48.3211977,
+     -20.3081327
+    ]
+   },
+   "properties": {
+    "name": "Futura Igreja Santo Expedito",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "node",
+    "osm_id": 13743953486,
+    "tags_raw": {
+     "addr:city": "Guaíra.SP",
+     "addr:postcode": "14793-514",
+     "addr:street": "Rua Dezesseis B",
+     "addr:suburb": "Residencial Tais",
+     "amenity": "place_of_worship",
+     "denomination": "catholic",
+     "name": "Futura Igreja Santo Expedito",
+     "religion": "christian",
+     "service_times": "19:00"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -51.4072172,
+     -21.8584637
+    ]
+   },
+   "properties": {
+    "name": "Gruta de Santo Expedito",
+    "kind": "wayside-shrine",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "node",
+    "osm_id": 3470067037,
+    "tags_raw": {
+     "historic": "tree_shrine",
+     "name": "Gruta de Santo Expedito",
+     "natural": "tree"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -39.6415287,
+     -4.6197298
+    ]
+   },
+   "properties": {
+    "name": "Gruta de Santo Expedito",
+    "kind": "wayside-shrine",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "node",
+    "osm_id": 12556631271,
+    "tags_raw": {
+     "addr:city": "Itatira",
+     "addr:postcode": "62720000",
+     "addr:street": "Estrada para Tabuleiro",
+     "addr:suburb": "Distrito de Morro Branco",
+     "amenity": "place_of_worship",
+     "denomination": "roman_catholic",
+     "description": "Local de Peregrinação em honra a Santo Expedito, o Santo das causas justas e urgentes.",
+     "image": "https://maps.app.goo.gl/5rKyZT6cg6mMTNzi6",
+     "name": "Gruta de Santo Expedito",
+     "opening_hours": "24/7",
+     "religion": "christian",
+     "source": "survey;local knowledge;streetlevel imagery",
+     "website": "https://www.facebook.com/grutadesantoexpeditoitatira",
+     "wheelchair": "yes",
+     "wikipedia": "pt:Itatira#Turismo"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -53.5076443,
+     -26.4485691
+    ]
+   },
+   "properties": {
+    "name": "Igreja Católica Santo Expedito",
+    "kind": "chapel",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "node",
+    "osm_id": 8627201500,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "building": "chapel",
+     "denomination": "roman_catholic",
+     "name": "Igreja Católica Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -59.9874086,
+     -3.045016
+    ]
+   },
+   "properties": {
+    "name": "Igreja Católica Santo Expedito",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "node",
+    "osm_id": 12520721884,
+    "tags_raw": {
+     "addr:city": "Manaus",
+     "addr:housenumber": "382",
+     "addr:postcode": "69058-402",
+     "addr:street": "Rua Visconde de Jequitinhonha",
+     "addr:suburb": "Flores",
+     "amenity": "place_of_worship",
+     "denomination": "catholic",
+     "name": "Igreja Católica Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -45.9036957,
+     -23.2617462
+    ]
+   },
+   "properties": {
+    "name": "Igreja Católica Santo Expedito",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 461240998,
+    "tags_raw": {
+     "addr:street": "Rua Santo Expedito",
+     "addr:suburb": "Residencial União",
+     "amenity": "place_of_worship",
+     "building": "yes",
+     "denomination": "catholic",
+     "name": "Igreja Católica Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -46.4213697,
+     -23.6487356
+    ]
+   },
+   "properties": {
+    "name": "Igreja Santo Espedito",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 992295437,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "building": "church",
+     "denomination": "roman_catholic",
+     "name": "Igreja Santo Espedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -39.6758857,
+     -3.3515317
+    ]
+   },
+   "properties": {
+    "name": "Igreja Santo Espedito Arisco",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "node",
+    "osm_id": 10555437928,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "name": "Igreja Santo Espedito Arisco"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.8718675,
+     -16.7366381
+    ]
+   },
+   "properties": {
+    "name": "Igreja Santo Expedito",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "node",
+    "osm_id": 1682690873,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "name": "Igreja Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -42.2873993,
+     -6.7949527
+    ]
+   },
+   "properties": {
+    "name": "Igreja Santo Expedito",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "node",
+    "osm_id": 5967583704,
+    "tags_raw": {
+     "addr:city": "Santa Rosa do Piauí",
+     "addr:postcode": "64518-000",
+     "addr:street": "Rua da Coperativa",
+     "addr:suburb": "Fazenda",
+     "amenity": "place_of_worship",
+     "denomination": "catholic",
+     "description": "Igreja Catolica de Santo Expedito",
+     "name": "Igreja Santo Expedito",
+     "nohousenumber": "yes",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -44.8952649,
+     -20.1292268
+    ]
+   },
+   "properties": {
+    "name": "Igreja Santo Expedito",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "node",
+    "osm_id": 6372734066,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "name": "Igreja Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -48.5674044,
+     -27.6821128
+    ]
+   },
+   "properties": {
+    "name": "Igreja Santo Expedito",
+    "kind": "chapel",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "node",
+    "osm_id": 8627192585,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "building": "chapel",
+     "denomination": "roman_catholic",
+     "name": "Igreja Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -38.5178891,
+     -3.8014187
+    ]
+   },
+   "properties": {
+    "name": "Igreja Santo Expedito",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "node",
+    "osm_id": 11428889904,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "denomination": "roman_catholic",
+     "name": "Igreja Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.7876694,
+     -21.2079885
+    ]
+   },
+   "properties": {
+    "name": "Igreja Santo Expedito",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "node",
+    "osm_id": 11792784405,
+    "tags_raw": {
+     "addr:street": "Rua João Marinho da Silva",
+     "amenity": "place_of_worship",
+     "denomination": "roman_catholic",
+     "name": "Igreja Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -45.2607883,
+     -19.7163259
+    ]
+   },
+   "properties": {
+    "name": "Igreja Santo Expedito",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 334830820,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "building": "church",
+     "denomination": "catholic",
+     "name": "Igreja Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -47.9183647,
+     -22.0090583
+    ]
+   },
+   "properties": {
+    "name": "Igreja Santo Expedito",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 360545178,
+    "tags_raw": {
+     "addr:city": "São Carlos",
+     "addr:housenumber": "1381",
+     "addr:street": "Rua Alberto Lanzoni",
+     "amenity": "place_of_worship",
+     "building": "church",
+     "denomination": "roman_catholic",
+     "name": "Igreja Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -51.1029307,
+     -30.0076605
+    ]
+   },
+   "properties": {
+    "name": "Igreja Santo Expedito",
+    "kind": "chapel",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 426685375,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "building": "chapel",
+     "denomination": "catholic",
+     "name": "Igreja Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -46.1684406,
+     -23.6705544
+    ]
+   },
+   "properties": {
+    "name": "Igreja Santo Expedito",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 526597143,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "building": "yes",
+     "denomination": "catholic",
+     "name": "Igreja Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -52.2098179,
+     -28.4490347
+    ]
+   },
+   "properties": {
+    "name": "Igreja Santo Expedito",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 613594273,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "building": "church",
+     "denomination": "roman_catholic",
+     "name": "Igreja Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -42.0834038,
+     -17.8572823
+    ]
+   },
+   "properties": {
+    "name": "Igreja Santo Expedito",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 637294315,
+    "tags_raw": {
+     "addr:city": "Malacacheta",
+     "addr:postcode": "39690-000",
+     "addr:street": "Rua Antônio Paulo Dias",
+     "addr:suburb": "Tancredo Neves",
+     "building": "church",
+     "building:levels": "1",
+     "name": "Igreja Santo Expedito"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -47.0002318,
+     -18.9673586
+    ]
+   },
+   "properties": {
+    "name": "Igreja Santo Expedito",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 682191648,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "building": "yes",
+     "name": "Igreja Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -48.9369734,
+     -23.078351
+    ]
+   },
+   "properties": {
+    "name": "Igreja Santo Expedito",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 683569247,
+    "tags_raw": {
+     "addr:city": "Avare",
+     "addr:postcode": "18708000",
+     "addr:suburb": "Jardim Presidencial",
+     "amenity": "place_of_worship",
+     "building": "yes",
+     "denomination": "catholic",
+     "name": "Igreja Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -48.3629357,
+     -21.6183277
+    ]
+   },
+   "properties": {
+    "name": "Igreja Santo Expedito",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 712085835,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "building": "church",
+     "name": "Igreja Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.7830589,
+     -20.6408249
+    ]
+   },
+   "properties": {
+    "name": "Igreja Santo Expedito",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 1189512805,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "building": "yes",
+     "name": "Igreja Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -49.9704322,
+     -20.3913907
+    ]
+   },
+   "properties": {
+    "name": "Igreja Santo Expedito",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 1372373290,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "denomination": "catholic",
+     "name": "Igreja Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -41.5146103,
+     -8.02917
+    ]
+   },
+   "properties": {
+    "name": "Igreja Santo Expedito Arapuá",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "node",
+    "osm_id": 12834966336,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "name": "Igreja Santo Expedito Arapuá"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -46.5058224,
+     -24.0364589
+    ]
+   },
+   "properties": {
+    "name": "Igreja São Francisco de Assis e Santo Expedito",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 1394076493,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "building": "church",
+     "denomination": "roman_catholic",
+     "name": "Igreja São Francisco de Assis e Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -48.0949545,
+     -15.8116565
+    ]
+   },
+   "properties": {
+    "name": "Igreja São Jorge e Santo Expedito",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 286987149,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "building": "church",
+     "building:levels": "2",
+     "denomination": "católica_ortodoxa",
+     "height": "6.88",
+     "name": "Igreja São Jorge e Santo Expedito",
+     "ref:GDF_CIU": "00134I6D0278",
+     "religion": "christian",
+     "source": "GDF"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -45.5759481,
+     -21.0844289
+    ]
+   },
+   "properties": {
+    "name": "Igreja de Santo Expedito",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "node",
+    "osm_id": 4837592075,
+    "tags_raw": {
+     "addr:postcode": "37170-000",
+     "addr:street": "Rua Amazonas",
+     "amenity": "place_of_worship",
+     "denomination": "catholic",
+     "name": "Igreja de Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -39.7428439,
+     -17.5620148
+    ]
+   },
+   "properties": {
+    "name": "Igreja de Santo Expedito",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "node",
+    "osm_id": 10697085663,
+    "tags_raw": {
+     "addr:city": "Teixeira de Freitas",
+     "addr:street": "Rua Galáxia",
+     "amenity": "place_of_worship",
+     "denomination": "catholic",
+     "name": "Igreja de Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -41.285393,
+     -21.8984159
+    ]
+   },
+   "properties": {
+    "name": "Igreja de Santo Expedito",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "node",
+    "osm_id": 11715014941,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "denomination": "roman_catholic",
+     "name": "Igreja de Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -42.5412106,
+     -15.5551951
+    ]
+   },
+   "properties": {
+    "name": "Igreja de Santo Expedito",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "node",
+    "osm_id": 12458852359,
+    "tags_raw": {
+     "addr:city": "Rio Pardo de Minas",
+     "addr:postcode": "39530-000",
+     "addr:suburb": "Boa Vista",
+     "amenity": "place_of_worship",
+     "denomination": "roman_catholic",
+     "name": "Igreja de Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -38.3681038,
+     -10.3805931
+    ]
+   },
+   "properties": {
+    "name": "Igreja de Santo Expedito",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "node",
+    "osm_id": 12616248187,
+    "tags_raw": {
+     "addr:city": "Novo Triunfo",
+     "addr:postcode": "48455-000",
+     "addr:suburb": "Pedra Branca",
+     "amenity": "place_of_worship",
+     "denomination": "roman_catholic",
+     "name": "Igreja de Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -40.5676025,
+     -14.8669388
+    ]
+   },
+   "properties": {
+    "name": "Igreja de Santo Expedito",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "node",
+    "osm_id": 13513122045,
+    "tags_raw": {
+     "addr:city": "Barra do Choça",
+     "addr:housenumber": "57",
+     "addr:postcode": "45123-400",
+     "addr:street": "Rua Rosemiro Cardoso",
+     "addr:suburb": "Ouro Verde",
+     "amenity": "place_of_worship",
+     "denomination": "roman_catholic",
+     "name": "Igreja de Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -38.521952,
+     -3.7590786
+    ]
+   },
+   "properties": {
+    "name": "Igreja de Santo Expedito",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 509926079,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "building": "yes",
+     "denomination": "catholic",
+     "height": "9.5",
+     "name": "Igreja de Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -37.2656907,
+     -7.0179976
+    ]
+   },
+   "properties": {
+    "name": "Igreja de Santo Expedito",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 516407935,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "building": "church",
+     "denomination": "catholic",
+     "name": "Igreja de Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -41.0110381,
+     -3.7211698
+    ]
+   },
+   "properties": {
+    "name": "Igreja de Santo Expedito",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 518790414,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "building": "yes",
+     "denomination": "roman_catholic",
+     "name": "Igreja de Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -40.852247,
+     -2.8902704
+    ]
+   },
+   "properties": {
+    "name": "Igreja de Santo Expedito",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 917990748,
+    "tags_raw": {
+     "addr:street": "Rua Tabelião Mário Aguiar Coelho",
+     "amenity": "place_of_worship",
+     "building": "yes",
+     "denomination": "catholic",
+     "name": "Igreja de Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -46.8082098,
+     -23.213353
+    ]
+   },
+   "properties": {
+    "name": "Igreja de Santo Expedito",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 1117927395,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "building": "yes",
+     "name": "Igreja de Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -44.2821864,
+     -2.5278621
+    ]
+   },
+   "properties": {
+    "name": "Igreja de Santo Expedito",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 1444818101,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "building": "yes",
+     "name": "Igreja de Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -45.9297265,
+     -21.6768061
+    ]
+   },
+   "properties": {
+    "name": "Igreja de Santo Expedito",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 1466626577,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "building": "church",
+     "denomination": "roman_catholic",
+     "name": "Igreja de Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -38.8110607,
+     -3.6416388
+    ]
+   },
+   "properties": {
+    "name": "Igreja do São Expedito",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 701429156,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "building": "yes",
+     "denomination": "roman_catholic",
+     "name": "Igreja do São Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -44.9278873,
+     -22.5650572
+    ]
+   },
+   "properties": {
+    "name": "Imagem de Santo Expedito",
+    "kind": "wayside-shrine",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "node",
+    "osm_id": 5272341992,
+    "tags_raw": {
+     "addr:city": "Lavrinhas",
+     "addr:street": "Avenida Jânio Quadros",
+     "addr:suburb": "Village Campestre",
+     "historic": "monument",
+     "inscription": "Imagem de Santo Expedito, Padroeiro do bairro Village Campestre, Lavrinhas",
+     "name": "Imagem de Santo Expedito"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -36.9072489,
+     -5.5740704
+    ]
+   },
+   "properties": {
+    "name": "Loja Santo Expedito",
+    "kind": "other",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 1368848481,
+    "tags_raw": {
+     "addr:city": "Assu",
+     "addr:housenumber": "74",
+     "addr:postcode": "59650-000",
+     "addr:street": "Rua Prefeito Manoel Montenegro",
+     "addr:suburb": "Centro",
+     "building": "yes",
+     "denomination": "roman_catholic",
+     "name": "Loja Santo Expedito",
+     "phone": "+55 84 99929 4057",
+     "religion": "christian",
+     "shop": "religion"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -46.5359746,
+     -23.7186866
+    ]
+   },
+   "properties": {
+    "name": "Paróquia Santa Luzia e Santo Expedito",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 682813549,
+    "tags_raw": {
+     "addr:housenumber": "370",
+     "addr:postcode": "09780-250",
+     "addr:street": "Avenida Luiz Pequini",
+     "addr:suburb": "Santa Terezinha",
+     "amenity": "place_of_worship",
+     "building": "church",
+     "denomination": "roman_catholic",
+     "email": "luziaexpedito@diocesesa.org.br",
+     "name": "Paróquia Santa Luzia e Santo Expedito",
+     "phone": "+55 11 2897 2569",
+     "religion": "christian",
+     "service_times": "We 19:30; Fr 15:00; Sa 17:00; Su 07:00,10:00,18:00; Fr[1] 19:30"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -49.4280622,
+     -20.7912556
+    ]
+   },
+   "properties": {
+    "name": "Paróquia Santo Expedito",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "node",
+    "osm_id": 4037400728,
+    "tags_raw": {
+     "addr:housenumber": "65",
+     "addr:street": "Rua José Elias Abrahão",
+     "amenity": "place_of_worship",
+     "building": "church",
+     "denomination": "roman_catholic",
+     "name": "Paróquia Santo Expedito",
+     "religion": "christian",
+     "wheelchair": "yes"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -49.3143331,
+     -16.6228653
+    ]
+   },
+   "properties": {
+    "name": "Paróquia Santo Expedito",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 301078429,
+    "tags_raw": {
+     "addr:suburb": "Jardim Fonte Nova",
+     "building": "church",
+     "name": "Paróquia Santo Expedito"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -50.8894557,
+     -29.2230829
+    ]
+   },
+   "properties": {
+    "name": "Paróquia Santo Expedito",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 499418094,
+    "tags_raw": {
+     "building": "church",
+     "name": "Paróquia Santo Expedito"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -46.9434763,
+     -22.3625448
+    ]
+   },
+   "properties": {
+    "name": "Paróquia Santo Expedito",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 668149943,
+    "tags_raw": {
+     "addr:housenumber": "122",
+     "addr:postcode": "13846-678",
+     "addr:street": "Rua  João Teixeira",
+     "addr:suburb": "Alto dos Ipês",
+     "amenity": "place_of_worship",
+     "building": "church",
+     "denomination": "roman_catholic",
+     "name": "Paróquia Santo Expedito",
+     "religion": "christian",
+     "service_times": "Su 09:00,19:00; Sa 19:00",
+     "start_date": "2003",
+     "website": "http://www.aparoquiasantoexpedito.com.br/"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -42.9520894,
+     -8.1117947
+    ]
+   },
+   "properties": {
+    "name": "Paróquia Santo Expedito",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 833708464,
+    "tags_raw": {
+     "addr:street": "Rua José Vieira",
+     "amenity": "place_of_worship",
+     "building": "yes",
+     "denomination": "catholic",
+     "name": "Paróquia Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -47.8299676,
+     -23.3545938
+    ]
+   },
+   "properties": {
+    "name": "Paróquia Santo Expedito",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 1533602539,
+    "tags_raw": {
+     "addr:street": "Rua Benedito Jacob Hessel",
+     "amenity": "place_of_worship",
+     "building": "church",
+     "denomination": "roman_catholic",
+     "name": "Paróquia Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -46.6971214,
+     -23.8483796
+    ]
+   },
+   "properties": {
+    "name": "Paróquia Santo Expedito e Nossa Senhora Aparecida",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 618637803,
+    "tags_raw": {
+     "addr:city": "São Paulo",
+     "addr:housenumber": "1 A",
+     "addr:postcode": "04892-220",
+     "addr:street": "Rua Nossa Senhora Aparecida",
+     "addr:suburb": "Colônia Paulista",
+     "amenity": "place_of_worship",
+     "building": "yes",
+     "denomination": "roman_catholic",
+     "description": "Paróquia Nossa Senhora da Boa Viagem - Setor Parelheiros - Diocese de Santo Amaro - Igreja Católica Apostólica Romana",
+     "email": "santoexpedito@santoamaro.org.br",
+     "fax": "+55 11 5978-4230",
+     "fixme": "Forania Parelheiros",
+     "height": "5.908",
+     "name": "Paróquia Santo Expedito e Nossa Senhora Aparecida",
+     "phone": "+55 11 5978-4230",
+     "religion": "christian",
+     "service_times": "07:00-23:00",
+     "source": "pmsp;survey;local knowledge;gps;aerial imagery;streetlevel imagery",
+     "start_date": "17/03/1995",
+     "website": "https://diocesedesantoamaro.org.br/",
+     "wheelchair": "yes"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -46.784266,
+     -22.0066379
+    ]
+   },
+   "properties": {
+    "name": "Paróquia Santo Expedito e Nossa Senhora da Consolação",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 671089639,
+    "tags_raw": {
+     "addr:housenumber": "1439",
+     "addr:postcode": "13876-857",
+     "addr:street": "Rua José Jorge da Rosa",
+     "addr:suburb": "Jardim Lucas Teixeira",
+     "amenity": "place_of_worship",
+     "building": "church",
+     "denomination": "roman_catholic",
+     "name": "Paróquia Santo Expedito e Nossa Senhora da Consolação",
+     "religion": "christian",
+     "service_times": "We,Sa 19:30; Su 09:00,19:00",
+     "start_date": "2011"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -47.897711,
+     -19.7575881
+    ]
+   },
+   "properties": {
+    "name": "Paróquia de Santo Expedito",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 1374197392,
+    "tags_raw": {
+     "addr:city": "Uberaba",
+     "addr:housenumber": "84",
+     "addr:street": "Rua Egídio Fantato",
+     "addr:suburb": "Manoel Mendes",
+     "amenity": "place_of_worship",
+     "building": "yes",
+     "denomination": "catholic",
+     "name": "Paróquia de Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -49.217907,
+     -25.3865364
+    ]
+   },
+   "properties": {
+    "name": "Paróquia de Santo Expedito - Diocese de Curitiba ICAB",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "node",
+    "osm_id": 6177752602,
+    "tags_raw": {
+     "addr:city": "Curitiba",
+     "addr:housenumber": "3",
+     "addr:postcode": "82600-010",
+     "addr:street": "Rua Robert Kennedy",
+     "amenity": "place_of_worship",
+     "denomination": "catholic",
+     "name": "Paróquia de Santo Expedito - Diocese de Curitiba ICAB",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -53.1618017,
+     -27.6104089
+    ]
+   },
+   "properties": {
+    "name": "Santo Expedito",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "node",
+    "osm_id": 5043848902,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "denomination": "catholic",
+     "name": "Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -47.1364911,
+     -22.9758607
+    ]
+   },
+   "properties": {
+    "name": "Santo Expedito",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 286993808,
+    "tags_raw": {
+     "addr:city": "Campinas",
+     "addr:housenumber": "2517",
+     "addr:postcode": "13054-107",
+     "addr:street": "Avenida Jacaúna",
+     "amenity": "place_of_worship",
+     "building": "yes",
+     "denomination": "roman_catholic",
+     "name": "Santo Expedito",
+     "phone": "+55 19 3226 0048",
+     "religion": "christian",
+     "website": "http://arquidiocesecampinas.com/local/paroquia-santo-expedito"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -35.2093943,
+     -5.8639648
+    ]
+   },
+   "properties": {
+    "name": "Santo Expedito",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 475917859,
+    "tags_raw": {
+     "building": "church",
+     "name": "Santo Expedito"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -35.2487265,
+     -6.6638577
+    ]
+   },
+   "properties": {
+    "name": "Santo Expedito",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 607943294,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "building": "yes",
+     "name": "Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -44.0066729,
+     -19.9133537
+    ]
+   },
+   "properties": {
+    "name": "Santuário de Santo Expedito",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 549194483,
+    "tags_raw": {
+     "building": "church",
+     "name": "Santuário de Santo Expedito"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -37.0982863,
+     -10.9587059
+    ]
+   },
+   "properties": {
+    "name": "Santuário de Santo Expedito",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 1173535646,
+    "tags_raw": {
+     "addr:street": "Rua Principal",
+     "amenity": "place_of_worship",
+     "building": "church",
+     "denomination": "roman_catholic",
+     "name": "Santuário de Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -51.2651891,
+     -29.6246878
+    ]
+   },
+   "properties": {
+    "name": "Santuário de Santo Expedito - Igreja Católica",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 754328107,
+    "tags_raw": {
+     "landuse": "recreation_ground",
+     "leisure": "park",
+     "name": "Santuário de Santo Expedito - Igreja Católica"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -51.3929356,
+     -21.8511879
+    ]
+   },
+   "properties": {
+    "name": "Santuário do Sagrado Coração de Jesus e Santo Expedito",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 339795405,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "building": "church",
+     "denomination": "catholic",
+     "name": "Santuário do Sagrado Coração de Jesus e Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -46.9435394,
+     -22.3626465
+    ]
+   },
+   "properties": {
+    "name": "Secretaria Paroquial Paróquia Santo Expedito",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "node",
+    "osm_id": 6256801191,
+    "tags_raw": {
+     "addr:housenumber": "122",
+     "addr:postcode": "13846-678",
+     "addr:street": "Rua  João Teixeira",
+     "addr:suburb": "Alto dos Ipês",
+     "denomination": "roman_catholic",
+     "email": "psexpedito@bol.com.br",
+     "name": "Secretaria Paroquial Paróquia Santo Expedito",
+     "office": "religion",
+     "opening_hours": "Tu-Fr 08:00- 11:30,13:30-17:00; Sa 08:00-12:00; Su,PH off",
+     "phone": "+55 19 3861 4560",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -46.7843494,
+     -22.0066891
+    ]
+   },
+   "properties": {
+    "name": "Secretaria Paroquial Paróquia Santo Expedito e Nossa Senhora da Consolação",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "node",
+    "osm_id": 6284431238,
+    "tags_raw": {
+     "addr:postcode": "13876-857",
+     "addr:street": "Rua José Jorge da Rosa",
+     "addr:suburb": "Jardim Lucas Teixeira",
+     "denomination": "roman_catholic",
+     "email": "p.expedito.consolacao@hotmail.com",
+     "name": "Secretaria Paroquial Paróquia Santo Expedito e Nossa Senhora da Consolação",
+     "office": "religion",
+     "opening_hours": "Mo-Fr 13:00-17:00; Sa 08:00-11:00; Su,PH off",
+     "phone": "+55 19 3622 2077",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -46.8955603,
+     -23.178032
+    ]
+   },
+   "properties": {
+    "name": "igreja Santo Expedito",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 966573318,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "building": "yes",
+     "name": "igreja Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -35.2485616,
+     -6.6634554
+    ]
+   },
+   "properties": {
+    "name": "jardim da igreja santo expedito",
+    "kind": "church",
+    "country": "Brazil",
+    "region_bucket": "brazil",
+    "osm_type": "way",
+    "osm_id": 914281014,
+    "tags_raw": {
+     "garden:type": "botanical",
+     "leisure": "garden",
+     "name": "jardim da igreja santo expedito"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.7737351,
+     44.854155
+    ]
+   },
+   "properties": {
+    "name": "Eremo di Sant'Espedito",
+    "kind": "church",
+    "country": "Italy",
+    "region_bucket": "italy",
+    "osm_type": "node",
+    "osm_id": 7086607723,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "name": "Eremo di Sant'Espedito"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.3518379,
+     38.1266148
+    ]
+   },
+   "properties": {
+    "name": "Sant'Espedito",
+    "kind": "church",
+    "country": "Italy",
+    "region_bucket": "italy",
+    "osm_type": "node",
+    "osm_id": 266892536,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "created_by": "Potlatch 0.9c",
+     "denomination": "catholic",
+     "name": "Sant'Espedito",
+     "religion": "christian",
+     "wikidata": "Q119907451"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     11.8337844,
+     46.1471024
+    ]
+   },
+   "properties": {
+    "name": "Sant'Espedito",
+    "kind": "wayside-shrine",
+    "country": "Italy",
+    "region_bucket": "italy",
+    "osm_type": "node",
+    "osm_id": 2428697206,
+    "tags_raw": {
+     "historic": "wayside_shrine",
+     "name": "Sant'Espedito",
+     "wikidata": "Q132191620"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -63.4772185,
+     -18.141
+    ]
+   },
+   "properties": {
+    "name": "Iglesia de San Luis Gonzaga y San Expedito",
+    "kind": "church",
+    "country": "Bolivia",
+    "region_bucket": "other",
+    "osm_type": "node",
+    "osm_id": 12156950558,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "name": "Iglesia de San Luis Gonzaga y San Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.6757233,
+     -33.3753561
+    ]
+   },
+   "properties": {
+    "name": "Capilla San Expedito",
+    "kind": "chapel",
+    "country": "Chile",
+    "region_bucket": "other",
+    "osm_type": "node",
+    "osm_id": 6306643017,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "name": "Capilla San Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.2449611,
+     -29.889651
+    ]
+   },
+   "properties": {
+    "name": "Capilla San Expedito",
+    "kind": "chapel",
+    "country": "Chile",
+    "region_bucket": "other",
+    "osm_type": "way",
+    "osm_id": 1059738115,
+    "tags_raw": {
+     "building": "chapel",
+     "name": "Capilla San Expedito"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.2800832,
+     -34.3653598
+    ]
+   },
+   "properties": {
+    "name": "San Expedito",
+    "kind": "other",
+    "country": "Chile",
+    "region_bucket": "other",
+    "osm_type": "node",
+    "osm_id": 7207354741,
+    "tags_raw": {
+     "artwork_type": "statue",
+     "name": "San Expedito",
+     "tourism": "artwork"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.5445882,
+     -32.9740163
+    ]
+   },
+   "properties": {
+    "name": "San Expedito",
+    "kind": "church",
+    "country": "Chile",
+    "region_bucket": "other",
+    "osm_type": "way",
+    "osm_id": 335370489,
+    "tags_raw": {
+     "addr:city": "Viña del Mar",
+     "addr:street": "Avenida Borgoño",
+     "amenity": "place_of_worship",
+     "building": "no",
+     "denomination": "catholic",
+     "name": "San Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.0007801,
+     13.0850572
+    ]
+   },
+   "properties": {
+    "name": "Capilla San Expedito",
+    "kind": "chapel",
+    "country": "Nicaragua",
+    "region_bucket": "other",
+    "osm_type": "way",
+    "osm_id": 632353772,
+    "tags_raw": {
+     "addr:city": "Jinotega",
+     "addr:country": "NI",
+     "addr:street": "Avenida Centro América",
+     "amenity": "place_of_worship",
+     "building": "yes",
+     "name": "Capilla San Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -28.3216093,
+     38.5274513
+    ]
+   },
+   "properties": {
+    "name": "Capela Santo Expedito",
+    "kind": "chapel",
+    "country": "Portugal (Azores)",
+    "region_bucket": "other",
+    "osm_type": "node",
+    "osm_id": 8718184660,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "name": "Capela Santo Expedito",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.9960584,
+     37.3908563
+    ]
+   },
+   "properties": {
+    "name": "San Expedito",
+    "kind": "other",
+    "country": "Spain",
+    "region_bucket": "other",
+    "osm_type": "node",
+    "osm_id": 9876047979,
+    "tags_raw": {
+     "artwork_type": "mural",
+     "name": "San Expedito",
+     "tourism": "artwork"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.4970357,
+     30.64991
+    ]
+   },
+   "properties": {
+    "name": "San Expedito Church",
+    "kind": "church",
+    "country": "United States",
+    "region_bucket": "other",
+    "osm_type": "node",
+    "osm_id": 358371893,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "ele": "26",
+     "gnis:feature_id": "539123",
+     "name": "San Expedito Church",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     55.6377911,
+     -21.3467441
+    ]
+   },
+   "properties": {
+    "name": "Chapelle Saint-Expédit",
+    "kind": "chapel",
+    "country": "France (Réunion)",
+    "region_bucket": "reunion",
+    "osm_type": "node",
+    "osm_id": 12260394737,
+    "tags_raw": {
+     "name": "Chapelle Saint-Expédit",
+     "place": "locality"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     55.7386727,
+     -21.3680898
+    ]
+   },
+   "properties": {
+    "name": "Chapelle Saint-Expédit",
+    "kind": "chapel",
+    "country": "France (Réunion)",
+    "region_bucket": "reunion",
+    "osm_type": "node",
+    "osm_id": 13301237876,
+    "tags_raw": {
+     "addr:city": "Saint-Philippe",
+     "addr:postcode": "97442",
+     "addr:street": "Route Nationale 2 Baril",
+     "amenity": "place_of_worship",
+     "colour": "red",
+     "denomination": "catholic",
+     "name": "Chapelle Saint-Expédit"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     55.6295712,
+     -21.1979559
+    ]
+   },
+   "properties": {
+    "name": "Saint Expedit",
+    "kind": "wayside-shrine",
+    "country": "France (Réunion)",
+    "region_bucket": "reunion",
+    "osm_type": "node",
+    "osm_id": 10902349295,
+    "tags_raw": {
+     "historic": "wayside_shrine",
+     "name": "Saint Expedit",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     55.509143,
+     -21.0740045
+    ]
+   },
+   "properties": {
+    "name": "Saint Expédit",
+    "kind": "wayside-shrine",
+    "country": "France (Réunion)",
+    "region_bucket": "reunion",
+    "osm_type": "node",
+    "osm_id": 13938633597,
+    "tags_raw": {
+     "historic": "wayside_shrine",
+     "name": "Saint Expédit"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     55.6312356,
+     -20.9886632
+    ]
+   },
+   "properties": {
+    "name": "Saint-Expedit",
+    "kind": "church",
+    "country": "France (Réunion)",
+    "region_bucket": "reunion",
+    "osm_type": "node",
+    "osm_id": 13304332251,
+    "tags_raw": {
+     "addr:city": "Saint-André",
+     "addr:postcode": "97412",
+     "addr:street": "Chemin Notre-Dame-du-Rosaire",
+     "amenity": "place_of_worship",
+     "denomination": "catholic",
+     "name": "Saint-Expedit"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     55.6312357,
+     -20.9886683
+    ]
+   },
+   "properties": {
+    "name": "Saint-Expédit",
+    "kind": "church",
+    "country": "France (Réunion)",
+    "region_bucket": "reunion",
+    "osm_type": "node",
+    "osm_id": 8300016154,
+    "tags_raw": {
+     "amenity": "place_of_worship",
+     "name": "Saint-Expédit",
+     "religion": "christian"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     55.5829373,
+     -21.1744879
+    ]
+   },
+   "properties": {
+    "name": "Statue de Saint-Expédit de la Route des Plaines",
+    "kind": "wayside-shrine",
+    "country": "France (Réunion)",
+    "region_bucket": "reunion",
+    "osm_type": "node",
+    "osm_id": 13301189739,
+    "tags_raw": {
+     "addr:city": "Le Tampon",
+     "addr:postcode": "97430",
+     "addr:street": "RN3 entre Bourg Murat et le Col de Bellevue",
+     "amenity": "place_of_worship",
+     "colour": "red",
+     "denomination": "catholic",
+     "name": "Statue de Saint-Expédit de la Route des Plaines"
+    }
+   }
+  }
+ ]
+}
